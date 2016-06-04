@@ -23,7 +23,7 @@
     "git"
   ],
   "dependencies": {
-    "@marionebl/git-fs-repo": "^0.1.0",
+    "@marionebl/git-fs-repo": "^0.1.1",
     "async": "^2.0.0-rc.5",
     "git-parse-human": "0.0.1",
     "git-walk-refs": "0.0.2",
